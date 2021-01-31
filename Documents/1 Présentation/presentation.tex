@@ -1,0 +1,42 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\author{Tien-Thinh}
+\title{Présentation TIPE}
+\date{2021-2022}
+
+
+\begin{document}
+\maketitle
+\section*{Exploration \& Recherche d'environnement 3D}
+
+\section{Introduction}
+Le TIPE 2021-2022 est sur "Santé, Prévention". \\
+Etant donné le nombre de personne à vacciner, j'ai voulu créer un programme qui sache vaccinner automatiquement une personne. (Pour la faisabilité, nous testerons le vaccinage sur un ballon de baudruche sans le faire éclater).
+
+\section{Grandes Lignes}
+\begin{itemize}
+\item Nuages de Points 3D à partir d'images
+\item Reconnaissance d'objet à étudier 
+\item Controller un bras articulé
+\end{itemize} 
+
+\section{Etat de l'art}
+\subsection{Nuages de points 3D}
+Les nuages de points sont un ensemble de points dans l'espace.
+\subsubsection{Conversion en Surface 3D}
+\url{https://en.wikipedia.org/wiki/Point_cloud}
+Pour faire des surfaces : 
+\begin{itemize}
+\item \href{https://en.wikipedia.org/wiki/Polygon_mesh}{Polygon mesh} : \href{https://en.wikipedia.org/wiki/Delaunay_triangulation}{Delaunay Triangulation} ou \href{https://en.wikipedia.org/wiki/Alpha_shape}{alpha-shape}
+\item \href{https://en.wikipedia.org/wiki/Triangle_mesh}{Triangle mesh}
+\item \href{https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline}{NBS Mesh}
+\item CAD model
+\end{itemize}
+
+
+
+
+\end{document}
