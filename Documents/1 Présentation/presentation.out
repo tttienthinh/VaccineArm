@@ -2,4 +2,7 @@
 \BOOKMARK [1][-]{section.2}{Grandes Lignes}{}% 2
 \BOOKMARK [1][-]{section.3}{Etat de l'art}{}% 3
 \BOOKMARK [2][-]{subsection.3.1}{Nuages de points 3D}{section.3}% 4
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Conversion en Surface 3D}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Cr\351ation du nuage de point}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Conversion en Surface 3D}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{SIFT}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Control du bras}{section.3}% 8

@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[57],{"9ija":function(i,n,_){"use strict";_.r(n);var t=_("0sSz");n.default=t.a},iVpB:function(i,n,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/my-list/tags/[tag]",function(){return _("9ija")}])}},[["iVpB",0,2,3,1,4,5,6,7,9,10,13,12,11,14,15,16,17,18,19,8]]]);
+//# sourceMappingURL=[tag]-c728d72d60dee5dc2060.js.map

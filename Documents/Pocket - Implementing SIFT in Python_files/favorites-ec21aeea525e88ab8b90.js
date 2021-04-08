@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[44],{RfzN:function(n,_,i){"use strict";i.r(_),i.d(_,"__N_SSG",(function(){return t}));var o=i("0sSz"),t=!0;_.default=o.a},TOB8:function(n,_,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/my-list/favorites",function(){return i("RfzN")}])}},[["TOB8",0,2,3,1,4,5,6,7,9,10,13,12,11,14,15,16,17,18,19,8]]]);
+//# sourceMappingURL=favorites-ec21aeea525e88ab8b90.js.map

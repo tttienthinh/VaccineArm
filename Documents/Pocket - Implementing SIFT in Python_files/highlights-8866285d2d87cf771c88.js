@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[47],{"2UGO":function(n,_,i){(window.__NEXT_P=window.__NEXT_P||[]).push(["/my-list/highlights",function(){return i("Ek2k")}])},Ek2k:function(n,_,i){"use strict";i.r(_),i.d(_,"__N_SSG",(function(){return o}));var t=i("0sSz"),o=!0;_.default=t.a}},[["2UGO",0,2,3,1,4,5,6,7,9,10,13,12,11,14,15,16,17,18,19,8]]]);
+//# sourceMappingURL=highlights-8866285d2d87cf771c88.js.map

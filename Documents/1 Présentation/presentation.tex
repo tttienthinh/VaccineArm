@@ -25,7 +25,18 @@ Etant donné le nombre de personne à vacciner, j'ai voulu créer un programme q
 
 \section{Etat de l'art}
 \subsection{Nuages de points 3D}
-Les nuages de points sont un ensemble de points dans l'espace.
+Les nuages de points sont un ensemble de points dans l'espace. 
+
+\subsubsection{Création du nuage de point}
+\url{https://fr.wikipedia.org/wiki/Reconstruction_3D_%C3%A0_partir_d'images#Reconstruction} \\
+\url{https://github.com/topics/3d-reconstruction?l=python} \\
+\begin{itemize}
+\item Structure from motion
+\item \href{https://fr.wikipedia.org/wiki/Scale-invariant_feature_transform}{Scale-invariant feature transform} détecter et identifier éléments similaires
+\item Pour extraire les images aberrantes : \href{https://fr.wikipedia.org/wiki/M%C3%A9thode_des_moindres_carr%C3%A9s}{Méthode des moindres carrés} et \href{https://fr.wikipedia.org/wiki/RANSAC}{RANSAC}
+\end{itemize}
+
+
 \subsubsection{Conversion en Surface 3D}
 \url{https://en.wikipedia.org/wiki/Point_cloud}
 Pour faire des surfaces : 
@@ -35,6 +46,14 @@ Pour faire des surfaces :
 \item \href{https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline}{NBS Mesh}
 \item CAD model
 \end{itemize}
+
+\subsection{SIFT}
+\href{https://openclassrooms.com/fr/courses/4470531-classez-et-segmentez-des-donnees-visuelles/5053196-decrivez-efficacement-les-features-detectees-avec-sift}{SIFT cours OpenClassroom}  
+
+\href{https://medium.com/data-breach/introduction-to-sift-scale-invariant-feature-transform-65d7f3a72d40}{Medium}
+
+\subsection{Control du bras}
+Inversion matricielle méthode de Paul.
 
 
 
